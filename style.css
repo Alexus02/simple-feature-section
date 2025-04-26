@@ -106,10 +106,15 @@ span{
         flex-direction: column;
         gap: 30px;
         margin: auto;
-        width: 95%;
+        width: 300px;
         height: 1500px;
         justify-content: center;
         align-items: center;
     
     }
+    header{
+    margin: 60px auto 50px auto;
+    text-align: center;
+    width: 300px;
+}
 }
