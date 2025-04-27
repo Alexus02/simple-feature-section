@@ -21,7 +21,7 @@ body{
     background-color: #121826;
     font-family: "Outfit", sans-serif;
     background-image: url("resources/Background_image.svg");
-    background-repeat: repeat;
+    background-repeat: repeat-x;
     background-attachment: fixed;
     background-size: contain;
 }
