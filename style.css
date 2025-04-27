@@ -20,7 +20,7 @@ header{
 body{
     background-color: #121826;
     font-family: "Outfit", sans-serif;
-    background-image: url("resources/Background_image@2x.png");
+    background-image: url("resources/Background_image.svg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
