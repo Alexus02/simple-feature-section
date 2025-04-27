@@ -23,7 +23,7 @@ body{
     background-image: url("resources/Background_image.svg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: contain;
 }
 h2{
     color: #E5E7EB;
